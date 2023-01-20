@@ -5,3 +5,4 @@
 *.json
 networks/
 mechanisms/
+git_ignore_folder*/
