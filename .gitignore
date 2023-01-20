@@ -3,3 +3,4 @@
 *.eps
 .ipynb_checkpoints/
 *.json
+networks/
