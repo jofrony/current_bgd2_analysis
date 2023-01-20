@@ -1,0 +1,1 @@
+../mechanisms//kcnq_ch.mod

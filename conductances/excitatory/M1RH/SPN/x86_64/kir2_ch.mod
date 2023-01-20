@@ -1,0 +1,1 @@
+../mechanisms//kir2_ch.mod
